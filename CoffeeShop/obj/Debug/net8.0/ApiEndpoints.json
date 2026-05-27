@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "CoffeeShop.Controllers.BrewController",
+    "Method": "Coffee",
+    "RelativePath": "brew-coffee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
