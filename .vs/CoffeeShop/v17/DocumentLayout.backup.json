@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Repos\\CoffeeShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15FC032B-E8BE-4CBF-A669-F72C372736E6}|CoffeeShop\\CoffeeShop.csproj|c:\\repos\\coffeeshop\\coffeeshop\\controllers\\bewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15FC032B-E8BE-4CBF-A669-F72C372736E6}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\controllers\\bewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15FC032B-E8BE-4CBF-A669-F72C372736E6}|CoffeeShop\\CoffeeShop.csproj|c:\\repos\\coffeeshop\\coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15FC032B-E8BE-4CBF-A669-F72C372736E6}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15FC032B-E8BE-4CBF-A669-F72C372736E6}|CoffeeShop\\CoffeeShop.csproj|c:\\repos\\coffeeshop\\coffeeshop\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15FC032B-E8BE-4CBF-A669-F72C372736E6}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15FC032B-E8BE-4CBF-A669-F72C372736E6}|CoffeeShop\\CoffeeShop.csproj|c:\\repos\\coffeeshop\\coffeeshop\\controllers\\brewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FC032B-E8BE-4CBF-A669-F72C372736E6}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\controllers\\brewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Coffee.cs",
-              "DocumentMoniker": "C:\\Repos\\CoffeeShop\\CoffeeShop\\Coffee.cs",
-              "RelativeDocumentMoniker": "CoffeeShop\\Coffee.cs",
-              "ToolTip": "C:\\Repos\\CoffeeShop\\CoffeeShop\\Coffee.cs",
-              "RelativeToolTip": "CoffeeShop\\Coffee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T02:22:30.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BewController.cs",
-              "DocumentMoniker": "C:\\Repos\\CoffeeShop\\CoffeeShop\\Controllers\\BewController.cs",
-              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\BewController.cs",
-              "ToolTip": "C:\\Repos\\CoffeeShop\\CoffeeShop\\Controllers\\BewController.cs*",
-              "RelativeToolTip": "CoffeeShop\\Controllers\\BewController.cs*",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Title": "BrewerController.cs",
+              "DocumentMoniker": "C:\\Repos\\CoffeeShop\\CoffeeShop\\Controllers\\BrewerController.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\BrewerController.cs",
+              "ToolTip": "C:\\Repos\\CoffeeShop\\CoffeeShop\\Controllers\\BrewerController.cs*",
+              "RelativeToolTip": "CoffeeShop\\Controllers\\BrewerController.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwEYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T02:18:31.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repos\\CoffeeShop\\CoffeeShop\\Program.cs",
-              "RelativeDocumentMoniker": "CoffeeShop\\Program.cs",
-              "ToolTip": "C:\\Repos\\CoffeeShop\\CoffeeShop\\Program.cs",
-              "RelativeToolTip": "CoffeeShop\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T02:18:16.275Z",
+              "WhenOpened": "2026-05-28T11:06:43.602Z",
               "EditorCaption": ""
             }
           ]

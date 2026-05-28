@@ -16,6 +16,18 @@
           }
         }
       }
+    },
+    "/brewer-coffee": {
+      "get": {
+        "tags": [
+          "Brewer"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": { }
